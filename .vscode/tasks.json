@@ -6,6 +6,7 @@
             "command": "C:\\msys64\\ucrt64\\bin\\g++.exe",
             "args": [
                 "-fdiagnostics-color=always",
+                "-Iinputs",
                 "-g",
                 "${file}",
                 "-o",
